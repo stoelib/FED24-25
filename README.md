@@ -16,13 +16,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Auteur:
-  Sanne 't Hooft (vervangen door jouw naam)
+  Joost Stoelinga
 
   #### Je startniveau:
-  hier je startniveau (kies uit zwart, rood óf blauw)
+  Blauw
 
   #### Je focus:
-  hier je focus (kies uit responsive óf surface plane)
+  responsive
  
 </details>
 
@@ -36,15 +36,17 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
+  [link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp](https://www.nasa.gov/)
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  Start pagina
+  <img width="1440" alt="Scherm­afbeelding 2024-11-14 om 13 19 30" src="https://github.com/user-attachments/assets/bbbd7715-85ad-4983-ac02-e51242d6cc8f">
+
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  Image's
+  <img width="1440" alt="Scherm­afbeelding 2024-11-14 om 13 20 09" src="https://github.com/user-attachments/assets/6c10af86-67d7-4f34-a0b8-2430654d345b">
+
  
 </details>
 
